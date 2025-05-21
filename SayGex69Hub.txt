@@ -141,7 +141,7 @@ if Fluent then
         Position = UDim2.new(0.02, 0, 0.05, 0),
         Size = UDim2.new(0, 40, 0, 40),
         Draggable = true,
-        Image = "http://www.roblox.com/asset/?id=110902405690667"
+        Image = "http://www.roblox.com/asset/?id=6942501530"
     })
 
     AddCorner(8, floatButton)
